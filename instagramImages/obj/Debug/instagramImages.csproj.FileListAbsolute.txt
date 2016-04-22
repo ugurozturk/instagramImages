@@ -1,1 +1,6 @@
 c:\users\taran\documents\visual studio 2015\Projects\instagramImages\instagramImages\bin\Debug\instagramImages.exe.config
+c:\users\taran\documents\visual studio 2015\Projects\instagramImages\instagramImages\bin\Debug\instagramImages.exe
+c:\users\taran\documents\visual studio 2015\Projects\instagramImages\instagramImages\bin\Debug\instagramImages.pdb
+c:\users\taran\documents\visual studio 2015\Projects\instagramImages\instagramImages\obj\Debug\instagramImages.csprojResolveAssemblyReference.cache
+c:\users\taran\documents\visual studio 2015\Projects\instagramImages\instagramImages\obj\Debug\instagramImages.exe
+c:\users\taran\documents\visual studio 2015\Projects\instagramImages\instagramImages\obj\Debug\instagramImages.pdb
